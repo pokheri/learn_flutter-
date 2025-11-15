@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Nike Air Max 270",
+            "desc": "Breathable lightweight sneakers with soft cushioning.",
+            "color": "#FF3A5A",
+            "price": 129.99,
+            "image": "assets/images/oone.png"
+        },
+        {
+            "id": 2,
+            "name": "Apple Watch Series 9",
+            "desc": "Advanced health tracking and always-on display.",
+            "color": "#1E1E1E",
+            "price": 399.00,
+            "image": "assets/images/two.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Sony WH-1000XM5",
+            "desc": "Industry-leading noise cancellation wireless headphones.",
+            "color": "#000000",
+            "price": 349.99,
+            "image": "assets/images/three.jpeg"
+        },
+        {
+            "id": 4,
+            "name": "Adidas Ultraboost 22",
+            "desc": "High-performance running shoes with responsive cushioning.",
+            "color": "#0047AB",
+            "price": 180.00,
+            "image": "assets/images/four.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Samsung Galaxy S23",
+            "desc": "Flagship smartphone with powerful performance and camera.",
+            "color": "#2C3E50",
+            "price": 799.99,
+            "image": "assets/images/hey.png"
+        },
+        {
+            "id": 6,
+            "name": "Canon EOS R7",
+            "desc": "Professional mirrorless camera with superior image quality.",
+            "color": "#D32F2F",
+            "price": 1499.00,
+            "image": "assets/images/black_semi.jpg"
+        }
+    ]
+}
